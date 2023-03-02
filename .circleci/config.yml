@@ -13,9 +13,9 @@ workflows:
           filters:
             branches: 
               only:
-                -main
+                - main
           requires:
-            -build 
+            - build 
 
 
 
