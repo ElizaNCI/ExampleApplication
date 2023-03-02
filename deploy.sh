@@ -9,4 +9,4 @@ cd ExampleApplication
 #install dependencies
 npm install
 #start the app
-pm2 start ./bin/www --name example_app -env=production
+pm2 start ./bin/www --name example_app 
